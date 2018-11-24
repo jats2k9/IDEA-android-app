@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "40794477012",
+    "firebase_url": "https://idea-aeb8c.firebaseio.com",
+    "project_id": "idea-aeb8c",
+    "storage_bucket": "idea-aeb8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40794477012:android:2cf04c1a47b6919c",
+        "android_client_info": {
+          "package_name": "android.Idea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40794477012-epqtpl3i8rd2rnqjvll955e598ts82r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrBXRXZvVjpXCwbZWfLvyJnfM8pLX0LpA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

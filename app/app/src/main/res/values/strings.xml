@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IDEA</string>
+    <string name="title_activity_check_idea">CheckIdeaActivity</string>
+    <string name="ideas">Ideas</string>
+</resources>
