@@ -1,5 +1,12 @@
 <resources>
-    <string name="app_name">IDEA</string>
+    <string name="app_name">AppV2</string>
     <string name="title_activity_check_idea">CheckIdeaActivity</string>
     <string name="ideas">Ideas</string>
+    <string name="description">Description</string>
+    <string name="name">Name</string>
+    <string name="post">Post</string>
+    <string name="give_your_idea_a_name">Give your \'idea\' a name</string>
+    <string name="type_a_brief_description_of_your_idea">Type a brief description of your \'idea\'</string>
+    <string name="share_idea">Share Idea</string>
+    <string name="search">Search</string>
 </resources>

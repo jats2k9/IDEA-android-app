@@ -36,6 +36,57 @@
           "status": 2
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40794477012:android:043549c5a6d59b0b",
+        "android_client_info": {
+          "package_name": "fiu.appv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40794477012-uoaqqhml0kieh9a3nshc72o7ln5dcl9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fiu.appv2",
+            "certificate_hash": "b4deae40e09f05f72457cabedd43f6eb6ca1b681"
+          }
+        },
+        {
+          "client_id": "40794477012-epqtpl3i8rd2rnqjvll955e598ts82r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrBXRXZvVjpXCwbZWfLvyJnfM8pLX0LpA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40794477012-epqtpl3i8rd2rnqjvll955e598ts82r2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "40794477012-avjl0f255mhru8grkc9totih3l1adit5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "idea"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
     }
   ],
   "configuration_version": "1"

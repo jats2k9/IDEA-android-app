@@ -1,15 +1,13 @@
-package fiu.idea.idea;
+package fiu.appv2;
 
 public class Idea {
     private String name;
     private String description;
-    private String postedBy;
 
 
-    public Idea(String name, String description, String postedBy) {
+    public Idea(String name, String description) {
         this.name = name;
         this.description = description;
-        this.postedBy = postedBy;
     }
 
     public Idea() {
@@ -31,11 +29,4 @@ public class Idea {
         this.description = description;
     }
 
-    public String getPostedBy() {
-        return postedBy;
-    }
-
-    public void setPostedBy(String postedBy) {
-        this.postedBy = postedBy;
-    }
 }

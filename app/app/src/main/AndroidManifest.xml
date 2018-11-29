@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="fiu.idea.idea">
+    package="fiu.appv2">
 
     <application
         android:allowBackup="true"
@@ -16,16 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".CheckIdeaActivity"
-            android:label="@string/title_activity_check_idea"
-            android:parentActivityName=".IdeasActivity"
-            android:theme="@style/AppTheme.NoActionBar">
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="fiu.idea.idea.IdeasActivity" />
-        </activity>
 
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity android:name=".PostToDatabase"></activity>
     </application>
 
 </manifest>

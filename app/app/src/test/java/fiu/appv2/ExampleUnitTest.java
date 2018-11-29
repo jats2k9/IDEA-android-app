@@ -1,4 +1,4 @@
-package fiu.idea.idea;
+package fiu.appv2;
 
 import org.junit.Test;
 
